@@ -1,0 +1,15 @@
+{
+  "name": "kt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gerar": "plop --plopfile geradores/propfile.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "plop": "^2.7.4"
+  }
+}
